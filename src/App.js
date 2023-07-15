@@ -27,11 +27,11 @@ function App() {
         <div className="center">
        <h1 className={styles.h1}>Hello there ... </h1> 
           <img src={pic} alt="Avatar" className="avatar" />
+          <br /> 
           <br />
-          <br />
-          <as href="https://www.google.com" target="_blank">
+          <as href="https://mega.nz/file/ILNSDJ4C#-ZzA8ZFpnpLQJIVle6GzvBE0vbbPM6r6Mu5UTKNg1F4" target="_blank">
             <Button variant="contained" className={styles.btn}>
-              my "Gestion de Stock " Application Desktop
+               "Gestion de Stock " Application Desktop 
             </Button>
           </as>     
           <span />
@@ -54,7 +54,7 @@ function App() {
             target="_blank"
           >
             <Button variant="contained" className={styles.btn}>
-              My Linkedin
+              My Linkedin  
             </Button>
           </a>
           <br />
