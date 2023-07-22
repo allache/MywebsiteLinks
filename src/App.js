@@ -13,8 +13,8 @@ export default function App() {
   return (
     <Router>
     <Routes>
-      <Route path='/Person' element={<Main/>}/>
-      <Route path='/' element={<Secondpage/>}/>
+      <Route path='/' element={<Main/>}/>
+      <Route path='/person' element={<Secondpage/>}/>
 
     </Routes>
 
