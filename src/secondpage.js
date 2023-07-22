@@ -1,9 +1,9 @@
 import React from 'react'
- function secondpage() {
+ function Secondpage() {
   return (
     <div>secondpage</div>
   )
 }
 
 
-export default secondpage;
+export default Secondpage;

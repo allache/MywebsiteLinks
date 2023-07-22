@@ -11,7 +11,7 @@ function MainApp() {
     return (
       <Router>
         <Route exact path="/" component={App} />
-        <Route path="/ERSV" component={ERSV} />
+        <Route path="/ERSV" component={<Person/>} />
       </Router>
     );
   }
