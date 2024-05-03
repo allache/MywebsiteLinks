@@ -43,16 +43,11 @@ function Main() {
             href="https://allacheabdelmalek.netlify.app/?fbclid=IwAR2j_-Cgj9Qow2tTHs28E84ms24qEx1nYEJBnqWO8sVa8f7nDTq4xVPY7yk"
             target="_blank"
           >
-            <Button variant="contained" className={styles.btn}>
-              Portfolio
-            </Button>
+            
           </a>
           <br />
           <br />
-          <a
-            href="https://www.linkedin.com/in/allache-abdelmalek-942b10173/?fbclid=IwAR2JwM9WVngPzuqe1b4lJffeZWDmQc_GUbtHfE_2ASZ-LTK-fmTLbzMks-c"
-            target="_blank"
-          >
+       
             <Button variant="contained" className={styles.btn}>
               My Linkedin  
             </Button>
